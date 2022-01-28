@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tada", {data:[{}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fvue-nuxt-Bento\u002F_nuxt\u002Fstatic\u002F1643342260",layout:"default",error:a,serverRendered:true,routePath:"\u002Fsecond-bag",config:{_app:{basePath:"\u002Fvue-nuxt-Bento\u002F",assetsPath:"\u002Fvue-nuxt-Bento\u002F_nuxt\u002F",cdnURL:a}}}}(null));
